@@ -1,4 +1,6 @@
 # Video-EZY v0.02
+I will be bringing back all the features and more of VideoEzy into this.
+This code is much cleaner and easier to manage for me.
 
 (demo of v0.02 out)
 [![Try it out](https://img.shields.io/badge/Try%20it%20Out-Colab-orange?style=for-the-badge&logo=google-colab)](https://colab.research.google.com/github/DragonFarts/Video-EZY/blob/main/Demo_of_VideoEZY_v0_02.ipynb)
@@ -6,7 +8,7 @@
 
 
 
-# VideoEzy First Releast
+# VideoEzy v0.01
 
 [![Watch the video](https://img.youtube.com/vi/nLBsxnWCldc/maxresdefault.jpg)](https://www.youtube.com/watch?v=IZsHXNYtoa4)
 
