@@ -1,4 +1,4 @@
-# Video-EZY v0.02
+# Video-Ezy v0.02
 I will be bringing back all the features and more of VideoEzy into this.
 This code is much cleaner and easier to manage for me.
 
