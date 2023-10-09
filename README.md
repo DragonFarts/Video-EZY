@@ -6,7 +6,7 @@ This code is much cleaner and easier to manage for me.
 [![Try it out](https://img.shields.io/badge/Try%20it%20Out-Colab-orange?style=for-the-badge&logo=google-colab)](https://colab.research.google.com/github/DragonFarts/Video-EZY/blob/main/Demo_of_VideoEZY_v0_02.ipynb)
 
 
-[![Watch the video](https://img.youtube.com/vi/znD8e82xUV/maxresdefault.jpg)](https://www.youtube.com/watch?v=znD8e82xUVk)
+[![Watch the video](https://img.youtube.com/vi/znD8e82xUVk/maxresdefault.jpg)](https://www.youtube.com/watch?v=znD8e82xUVk)
 [![Watch the video](https://img.youtube.com/vi/8XEpO0JblKs/maxresdefault.jpg)](https://www.youtube.com/watch?v=8XEpO0JblKs)
 
 
