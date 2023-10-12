@@ -2,7 +2,7 @@
 wav2lip musicgen hotshot audioldm tortoise-tts rvc   all implemented
 
 
-[![Watch the video](https://img.youtube.com/vi/feOfD1U2ISs/minresdefault.jpg)](https://youtu.be/feOfD1U2ISs)
+[![Watch the video](https://img.youtube.com/vi/feOfD1U2ISs/minresdefault.jpg)](https://www.youtube.com/watch?v=feOfD1U2ISs)
 
 [![Try it out](https://img.shields.io/badge/Try%20it%20Out-Colab-orange?style=for-the-badge&logo=google-colab)](https://colab.research.google.com/github/DragonFarts/Video-EZY/blob/main/VideoEZY_v0_03.ipynb
 )
