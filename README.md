@@ -1,7 +1,7 @@
 # HotShotXL-Colab with LoRa and Cool Stuff
 https://colab.research.google.com/github/DragonFarts/Video-EZY/blob/main/The_Cats_HotshotXL_wanda_bingbing_and_luna.ipynb
 
-[![Watch the video](https://img.youtube.com/vi/OsKCXzq4X6E/minresdefault.jpg)](https://www.youtube.com/watch?v=OsKCXzq4X6E)
+[![Watch the video](https://img.youtube.com/vi/OsKCXzq4X6E/maxresdefault.jpg)](https://www.youtube.com/watch?v=OsKCXzq4X6E)
 
 
 ![Step 1](https://i.imgur.com/4aM2gQ7_d.webp)
