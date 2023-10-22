@@ -4,11 +4,11 @@ https://colab.research.google.com/github/DragonFarts/Video-EZY/blob/main/The_Cat
 WANDATHECAT LUNATHECAT BINGBING  LoRa test on WAP by Cardi B
 https://www.youtube.com/watch?v=OsKCXzq4X6E
 
-![Step 1](https://i.imgur.com/4aM2gQ7_d.webp)
-![Step 2](https://i.imgur.com/Kn8Coqp_d.webp)
-![Step 3](https://i.imgur.com/nMByG6O_d.webp)
-![Step 4](https://i.imgur.com/WkEJPmj_d.webp)
-![Step 5](https://i.imgur.com/pMt1O5Z_d.webp)
+![Step 1](https://i.imgur.com/4aM2gQ7_d.webp?maxwidth=760&fidelity=grand)
+![Step 2](https://i.imgur.com/Kn8Coqp_d.webp?maxwidth=760&fidelity=grand)
+![Step 3](https://i.imgur.com/nMByG6O_d.webp?maxwidth=760&fidelity=grand)
+![Step 4](https://i.imgur.com/WkEJPmj_d.webp?maxwidth=760&fidelity=grand)
+![Step 5](https://i.imgur.com/pMt1O5Z_d.webp?maxwidth=760&fidelity=grand)
 
 
 
