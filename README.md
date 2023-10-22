@@ -1,8 +1,22 @@
+# HotShotXL-Colab with LoRa and Cool Stuff
+https://colab.research.google.com/github/DragonFarts/Video-EZY/blob/main/The_Cats_HotshotXL_wanda_bingbing_and_luna.ipynb
+
+[![Watch the video](https://img.youtube.com/vi/OsKCXzq4X6E/minresdefault.jpg)](https://www.youtube.com/watch?v=OsKCXzq4X6E)
+
+
+![Step 1](https://i.imgur.com/4aM2gQ7_d.webp)
+![Step 2](https://i.imgur.com/Kn8Coqp_d.webp)
+![Step 3](https://i.imgur.com/nMByG6O_d.webp)
+![Step 4](https://i.imgur.com/WkEJPmj_d.webp)
+![Step 5](https://i.imgur.com/pMt1O5Z_d.webp)
+
+
+
 # VideoEzy v0.03
 wav2lip musicgen hotshot audioldm tortoise-tts rvc   all implemented
 
 
-[![Watch the video](https://img.youtube.com/vi/feOfD1U2ISs/minresdefault.jpg)](https://www.youtube.com/watch?v=feOfD1U2ISs)
+[!(https://www.youtube.com/watch?v=feOfD1U2ISs)
 
 [![Try it out](https://img.shields.io/badge/Try%20it%20Out-Colab-orange?style=for-the-badge&logo=google-colab)](https://colab.research.google.com/github/DragonFarts/Video-EZY/blob/main/VideoEZY_v0_03.ipynb
 )
