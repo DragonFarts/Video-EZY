@@ -1,5 +1,5 @@
 # Story Book Pro for a100
-[![Try it out](https://img.shields.io/badge/Try%20it%20Out-Colab-orange?style=for-the-badge&logo=google-colab)]([https://colab.research.google.com/github/DragonFarts/Video-EZY/blob/main/VideoEZY_v0_03.ipynb](https://colab.research.google.com/github/DragonFarts/Video-EZY/blob/main/StoryBook_a100_pro.ipynb
+[![Try it out](https://img.shields.io/badge/Try%20it%20Out-Colab-orange?style=for-the-badge&logo=google-colab)]([https://colab.research.google.com/github/DragonFarts/Video-EZY/blob/main/VideoEZY_v0_03.ipynb]
 )
 )
 
