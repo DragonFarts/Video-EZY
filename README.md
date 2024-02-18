@@ -3,7 +3,7 @@
 )
 )
 
-[![Watch the video](https://img.youtube.com/vi/feOfD1U2ISs/default.jpg)](https://www.youtube.com/watch?v=feOfD1U2ISs)
+(https://www.youtube.com/watch?v=feOfD1U2ISs)
 # HotShotXL-Colab with LoRa and Cool Stuff
 [![Try it out](https://img.shields.io/badge/Try%20it%20Out-Colab-orange?style=for-the-badge&logo=google-colab)](https://colab.research.google.com/github/DragonFarts/Video-EZY/blob/main/The_Cats_HotshotXL_wanda_bingbing_and_luna.ipynb
 )
