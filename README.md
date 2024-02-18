@@ -1,8 +1,6 @@
 # Story Book Pro for a100
-[![Try it out](https://img.shields.io/badge/Try%20it%20Out-Colab-orange?style=for-the-badge&logo=google-colab)]([https://colab.research.google.com/github/DragonFarts/Video-EZY/blob/main/VideoEZY_v0_03.ipynb]
+[![Try it out](https://img.shields.io/badge/Try%20it%20Out-Colab-orange?style=for-the-badge&logo=google-colab)](https://colab.research.google.com/github/DragonFarts/Video-EZY/blob/main/VideoEZY_v0_03.ipynb
 )
-)
-
 [![Story Book Pro](https://img.youtube.com/vi/0h5976Mrgpc/0.jpg)](https://www.youtube.com/watch?v=0h5976Mrgpc)
 
 # HotShotXL-Colab with LoRa and Cool Stuff
